@@ -53,3 +53,7 @@ I have started my journey as an ASP.NET developer in 2011. In 2013, I found my i
 <br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbparvezme&show_icons=true&locale=en&layout=compact" alt="mbparvezme" /></p>
+
+![GitHub metrics](https://metrics.lecoq.io/mbparvezme)
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mbparvezme&show_icons=true)  -->
