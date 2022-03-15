@@ -1,5 +1,5 @@
 
-<img src="https://github.com/mbparvezme/mbparvezme/blob/main/mbparvez-github-banner.png" alt="M B Parvez"/>
+<img src="https://github.com/mbparvezme/mbparvezme/blob/main/mbparvez-banner.png" alt="M B Parvez"/>
 
 
 <h1 align="center">Hi 👋, I'm M B Parvez</h1>
