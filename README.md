@@ -145,20 +145,17 @@ I have started my journey as an ASP.NET developer in 2011. In 2013, I found my i
 <br><br>
 
 
-<div>
-  <img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbparvezme&show_icons=true&locale=en&layout=compact" alt="mbparvezme" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbparvezme&show_icons=true&locale=en&layout=compact" alt="mbparvezme" />
 
-<p align="left">
+<p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mbparvezme&show_icons=true)</p>  
-</div>
-<br><br>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mbparvezme)
 
 <br><br>
-
+  
 ![GitHub metrics](https://metrics.lecoq.io/mbparvezme)
-<br><br>
-
-
+  
+</div>
