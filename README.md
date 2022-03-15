@@ -56,4 +56,6 @@ I have started my journey as an ASP.NET developer in 2011. In 2013, I found my i
 
 ![GitHub metrics](https://metrics.lecoq.io/mbparvezme)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mbparvezme)  
+
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mbparvezme&show_icons=true)  -->
