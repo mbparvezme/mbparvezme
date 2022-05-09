@@ -118,7 +118,7 @@ I have started my journey as an ASP.NET developer in 2011. In 2013, I found my i
 </table>
 <br><br>
 
-## My Opensource Projects
+## My Open-source Projects
 - Creator of [**TheUI**](https://wwww.theui.xyz), the libraries of **TheUI** and its Template.
 - Creator of [**Sveltekit-UI**](https://github.com/theUIxyz/sveltekit-ui) components library.
 <br><br>
