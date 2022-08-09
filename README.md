@@ -34,7 +34,7 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
     </td>
   </tr>
   <tr>
-    <td>Back-end</td>
+    <td>Design Systems and Tools</td>
     <td>
       <a href="https://tailwindcss.com" target="_blank">TailwindCSS</a>,
       <a href="https://getbootstrap.com" target="_blank">Bootstrap</a>,
@@ -124,7 +124,7 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 <br><br>
 
 ## Current Status
-- I’m currently working in my own company [Gosoft](https://www.gosoft.io).
+- I’m currently working with [Gosoft](https://www.gosoft.io) and [BIPBY](https://www.bipby.digital).
 
 - I’m currently learning **DevOps and DenoJS**
 
