@@ -6,9 +6,9 @@
 ## All About Me
 > I was created on 11 December 1990 as a New File.human (dot human file) with the help of my parents and saved as M B Parvez. I live with my family in Bangladesh, watching movies, eating potatoes and cookies, and in my free time(!) write some codes and, I don't know why these run sometimes!
 
-I'm a passionate, mission-driven full-stack web and mobile app developer. I design creative, user-friendly modern UI and UX and develop a fully functional, fast but light, and secure web and mobile app. I enjoy turning complex problems into simple, beautiful, and intuitive ones.
+I'm a passionate, mission-driven full-stack web developer. I design creative, user-friendly modern UI and UX and develop fully functional, fast, and secure web applications. I enjoy turning complex problems into simple, beautiful, and intuitive ones.
 
-I have started my journey as an ASP.NET developer in 2011. In 2013, I found my interest in PHP and became a PHP developer, and since 2017, working with NodeJS also. From 2016, I have started to develop mobile applications and, in 2019, I became a Flutter lover and started developing cross-platform mobile applications for both Android and iOS applications using flutter. In this eleven-year-long journey, I have tried to adopt the technologies I found in my way to enrich my skills.
+I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I worked with both CodeIgniter and Laravel frameworks in PHP. In 2016, I started nodeJS. I am currently working with both PHP and nodeJS tech stacks. In this eleven-year-long journey, I have tried to adopt the technologies I found on my way to enrich my skills. I do the work because I love it.
 
 
 > My nickname is "Rony", but they call me with a petname, "Ron". You can also call me with a full-stack web developer, UI/UX designer, mobile app developer, or any other functional title defined by the market.
