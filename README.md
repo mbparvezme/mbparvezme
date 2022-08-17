@@ -118,9 +118,9 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 </table>
 <br><br>
 
-## My Open-source Projects
-- Creator of [**TheUI**](https://wwww.theui.xyz), the libraries of **TheUI** and its Template.
-- Creator of [**Sveltekit-UI**](https://github.com/theUIxyz/sveltekit-ui) components library.
+## My Platform
+### I've developed [**TheUI**](https://wwww.theui.dev), a platform for components, UI blocks, template and theme.
+
 <br><br>
 
 ## Current Status
