@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  ## I build [**TheUI**](https://wwww.theui.dev)
+  ## I build [**TheUI**](https://github.com/theui-dev)
   <img width="200pc" src="https://github.com/mbparvezme/mbparvezme/blob/main/TheUI - space-around.png" alt="M B Parvez"/>
 
   A platform for components, UI blocks, template and theme. Actually, building a Sveltekit eco-system.
