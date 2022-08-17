@@ -1,6 +1,18 @@
 <img src="https://github.com/mbparvezme/mbparvezme/blob/main/mbparvez-banner.png" alt="M B Parvez"/>
 <h1 align="center">Hi 👋, I'm M B Parvez</h1>
 <h3 align="center">FULL STACK WEB & MOBILE APP DEVELOPER<br>Whatever I do, I do it because I love to do it</h3>
+
+<br><br>
+
+<div align="center">
+
+  ## I build [**TheUI**](https://wwww.theui.dev)
+  <img width="200pc" src="https://github.com/mbparvezme/mbparvezme/blob/main/TheUI - space-around.png" alt="M B Parvez"/>
+
+  A platform for components, UI blocks, template and theme. Actually, building a Sveltekit eco-system.
+
+</div>
+
 <br><br>
 
 ## All About Me
@@ -116,11 +128,6 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
     </td>
   </tr>
 </table>
-<br><br>
-
-## My Platform
-### I've developed [**TheUI**](https://wwww.theui.dev), a platform for components, UI blocks, template and theme.
-
 <br><br>
 
 ## Current Status
