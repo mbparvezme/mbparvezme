@@ -142,11 +142,14 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 - How to reach me **https://www.mbparvez.me**
 
 - Fun fact **I like potatoes 🥔 and cookies more than anything**
+
 <br><br>
 
-## Connect with me
-<p align="left">
-  <a href="https://twitter.com/mbparvezme" target="blank"><img src="https://img.shields.io/twitter/follow/mbparvezme?logo=twitter&style=for-the-badge" alt="mbparvezme" height="30"/></a><br>
+---
+
+<br>
+
+<p align="center">
   <a href="https://dev.to/mbparvezme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mbparvezme" height="30" width="40" /></a>
   <a href="https://twitter.com/mbparvezme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbparvezme" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/mbparvezme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbparvezme" height="30" width="40" /></a>
