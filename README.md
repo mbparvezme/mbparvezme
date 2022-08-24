@@ -1,31 +1,63 @@
-<img src="https://github.com/mbparvezme/mbparvezme/blob/main/mbparvez-banner.png" alt="M B Parvez"/>
+<!-- img src="https://github.com/mbparvezme/mbparvezme/blob/main/mbparvez-banner.png" alt="M B Parvez"/ -->
 <h1 align="center">Hi 👋, I'm M B Parvez</h1>
-<h3 align="center">FULL STACK WEB & MOBILE APP DEVELOPER<br>Whatever I do, I do it because I love to do it</h3>
 
-<br><br>
+<p align="center">
+  <a href="https://stackoverflow.com/users/2300749/m-b-parvez">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/2300749?color=red&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/mbparvezme?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mbparvezme?style=flat&color=black&logo=github">
+  </a>
+  <a href="https://github.com/mbparvezme/">
+    <img src="https://komarev.com/ghpvc/?username=mbparvezme" alt="visitors" />
+  </a>
 
+</p>
+
+<h3 align="center">A FULL-STACK DEVELOPER FROM BANGLADESH</h3>
 <div align="center">
+  <!--### Whatever I do, I do it because I love to do it-->
 
-  ## I build [**TheUI**](https://github.com/theui-dev)
-  <img width="200pc" src="https://github.com/mbparvezme/mbparvezme/blob/main/TheUI - space-around.png" alt="M B Parvez"/>
+  ### I build [**theUI**](https://www.theui.dev)
+  
+  <img width="80pc" src="https://github.com/mbparvezme/mbparvezme/blob/main/TheUI - space-around.png" alt="M B Parvez"/>
 
-  A platform for components, UI blocks, template and theme. Actually, building a Sveltekit eco-system.
+  A platform for components, UI blocks, template and theme.<br>Actually, building a Sveltekit eco-system.
 
 </div>
 
 <br><br>
 
 ## All About Me
-> I was created on 11 December 1990 as a New File.human (dot human file) with the help of my parents and saved as M B Parvez. I live with my family in Bangladesh, watching movies, eating potatoes and cookies, and in my free time(!) write some codes and, I don't know why these run sometimes!
+> A new (.human) file was created on 11 December 1990 with the help of my parents and named M B Parvez while saving. I live with my family in Bangladesh, watching movies, eating potatoes and cookies, and in my free time(!) write some codes and, I don't know why these run sometimes!
 
 I'm a passionate, mission-driven full-stack web developer. I design creative, user-friendly modern UI and UX and develop fully functional, fast, and secure web applications. I enjoy turning complex problems into simple, beautiful, and intuitive ones.
 
 I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I worked with both CodeIgniter and Laravel frameworks in PHP. In 2016, I started nodeJS. I am currently working with both PHP and nodeJS tech stacks. In this eleven-year-long journey, I have tried to adopt the technologies I found on my way to enrich my skills. I do the work because I love it.
 
+> My nickname is "Rony", but they call me with a petname, "Ron". You can also call me with a full-stack web developer, UI/UX designer, or any other functional title defined by the industry.
 
-> My nickname is "Rony", but they call me with a petname, "Ron". You can also call me with a full-stack web developer, UI/UX designer, mobile app developer, or any other functional title defined by the market.
+<br>
 
-<br><br>
+## Now
+
+- 🟢 Contributing to [**theUI**](https://github.com/theui-dev)
+- 💖 Interested in DevOps and Cloud engineering
+- 🏢 Available for remote work
+- 🔎 Looking for contributing to php or javascript python based open source projects
+
+<br>
+
+## Bio
+
+- 👩🏿‍💼 I'm currently working at [Gosoft](https://www.gosoft.io) and [BIPBY](https://www.bipby.digital)
+- ⚙️ I use daily: `.js`, `.php`, `.svelte`
+- 🌍 I'm mostly active within the **php community**
+- 🌱 Learning all about **DevOps**
+- 📫 Reach me: [https://mbparvez.me.](https://twitter.com/mbparvezme)
+- 📝 Checkout my [Resume](files/resume.pdf).
+
+<br>
 
 ## Tools & Technologies
 > Technoloy, languages, tools, and other things that I like to work with.
