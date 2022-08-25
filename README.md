@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://stackoverflow.com/users/2300749/m-b-parvez">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/2300749?color=red&label=reputation&logo=stackoverflow">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/2300749?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/mbparvezme?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mbparvezme?style=flat&color=black&logo=github">
