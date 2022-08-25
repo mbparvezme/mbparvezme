@@ -163,20 +163,17 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 
 <br><br>
 
----
+## ⚡ Github Stats
+<p float="left">
 
-<br>
+  <!--   ![GitHub metrics](https://metrics.lecoq.io/mbparvezme) -->
+  
+  ![GitHub metrics](https://metrics.lecoq.io/mbparvezme?template=classic&base.indepth=true&base.hireable=true&commits.authoring=&base.header=0&base.community=0&languages=1&lines=1&people=1&introduction=1&gists=1&pagespeed=1&tweets=1&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.aliases=javascript%3AJS%20typescript%3ATS&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&people=false&people.limit=92&people.identicons=true&people.identicons.hide=false&people.size=16&people.types=followers&people.shuffle=false&introduction=false&introduction.title=true&gists=false&pagespeed=false&pagespeed.url=gosoft.io&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=mbparvezme&tweets.attachments=false&tweets.limit=1&stackoverflow=false&stackoverflow.user=2300749&stackoverflow.sections=answers-top&stackoverflow.limit=1&stackoverflow.lines=1&stackoverflow.lines.snippet=2&config.timezone=Asia%2FDhaka&config.padding=0%2C%2016%20%2B%2011%25)
 
-<p align="center">
-  <a href="https://dev.to/mbparvezme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mbparvezme" height="30" width="40" /></a>
-  <a href="https://twitter.com/mbparvezme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbparvezme" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mbparvezme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbparvezme" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/2300749" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2300749" height="30" width="40" /></a>
-  <a href="https://fb.com/mbparvezme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mbparvezme" height="30" width="40" /></a>
-  <a href="https://instagram.com/mbparvezme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mbparvezme" height="30" width="40" /></a>
 </p>
 
-<br><br>
+<br>
+<br>
 
 <p float="left">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=mbparvezme&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
@@ -185,12 +182,28 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
   <br>
   <br>
 
-<!--   ![GitHub metrics](https://metrics.lecoq.io/mbparvezme) -->
+  ---
   
-  ![GitHub metrics](https://metrics.lecoq.io/mbparvezme?template=classic&base.indepth=true&base.hireable=true&base.header=0&base.community=0&lines=1&people=1&introduction=1&gists=1&pagespeed=1&tweets=1&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&people=false&people.limit=92&people.identicons=true&people.identicons.hide=false&people.size=16&people.types=followers&people.shuffle=false&introduction=false&introduction.title=true&gists=false&pagespeed=false&pagespeed.url=gosoft.io&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=mbparvezme&tweets.attachments=false&tweets.limit=1&stackoverflow=false&stackoverflow.user=2300749&stackoverflow.sections=answers-top&stackoverflow.limit=1&stackoverflow.lines=1&stackoverflow.lines.snippet=2&config.timezone=Asia%2FDhaka)
-
-
-
-  
-  
+<p>
+  <a href="https://twitter.com/mbparvezme">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white">
+  </a> 
+  <a href="https://www.linkedin.com/in/mbparvezme/">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://www.facebook.com/mbparvezme">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://dev.to/mbparvezme">
+    <img src="https://img.shields.io/badge/DEV-000000?style=flat&logo=dev.to&logoColor=white">
+  </a>
+  <a href="https://medium.com/@mbparvezme">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white">
+  </a>
+  <a href="mailto:mbparvezme@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.mbparvez.me">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat">
+  </a>
 </p>
