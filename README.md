@@ -175,20 +175,22 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
   <a href="https://fb.com/mbparvezme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mbparvezme" height="30" width="40" /></a>
   <a href="https://instagram.com/mbparvezme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mbparvezme" height="30" width="40" /></a>
 </p>
-<br><br>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbparvezme&show_icons=true&locale=en&layout=compact" alt="mbparvezme" />
-
-<p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mbparvezme&show_icons=true)</p>  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mbparvezme)
 
 <br><br>
+
+<p float="left">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=mbparvezme&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbparvezme&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+  <br>
+  <br>
+
+<!--   ![GitHub metrics](https://metrics.lecoq.io/mbparvezme) -->
   
-![GitHub metrics](https://metrics.lecoq.io/mbparvezme)
+  ![GitHub metrics](https://metrics.lecoq.io/mbparvezme?template=classic&base.indepth=true&base.hireable=true&base.header=0&base.community=0&lines=1&people=1&introduction=1&gists=1&pagespeed=1&tweets=1&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&people=false&people.limit=92&people.identicons=true&people.identicons.hide=false&people.size=16&people.types=followers&people.shuffle=false&introduction=false&introduction.title=true&gists=false&pagespeed=false&pagespeed.url=gosoft.io&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=mbparvezme&tweets.attachments=false&tweets.limit=1&stackoverflow=false&stackoverflow.user=2300749&stackoverflow.sections=answers-top&stackoverflow.limit=1&stackoverflow.lines=1&stackoverflow.lines.snippet=2&config.timezone=Asia%2FDhaka)
+
+
+
   
-</div>
+  
+</p>
