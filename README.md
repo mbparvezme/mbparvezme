@@ -173,7 +173,6 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 </p>
 
 <br>
-<br>
 
 ---
   
