@@ -28,7 +28,7 @@
 
 <br><br>
 
-## All About Me
+### 😎 All About Me
 > A new (.human) file was created on 11 December 1990 with the help of my parents and named M B Parvez while saving. I live with my family in Bangladesh, watching movies, eating potatoes and cookies, and in my free time(!) write some codes and, I don't know why these run sometimes!
 
 I'm a passionate, mission-driven full-stack web developer. I design creative, user-friendly modern UI and UX and develop fully functional, fast, and secure web applications. I enjoy turning complex problems into simple, beautiful, and intuitive ones.
@@ -39,27 +39,27 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 
 <br>
 
-## Now
+### ⌚ Now
 
 - 🟢 Contributing to [**theUI**](https://github.com/theui-dev)
 - 💖 Interested in DevOps, Cloud and System engineering
-- 🏢 Available for remote work
-- 🔎 Looking for contributing to php, javascript or python based open source projects
+- ✋🏼 Available for remote work
+- 👷🏼 Looking for contributing to php, javascript or python based open source projects
 
 <br>
 
-## Bio
+### 🧬 My DNA
 
 - 👩🏿‍💼 I'm currently working at [Gosoft](https://www.gosoft.io) and [BIPBY](https://www.bipby.digital)
-- ⚙️ I use daily: `.js`, `.ts`, `.php`, `.svelte`
-- 🌍 I'm mostly active within the **php and javascript community**
+- 🧑🏼‍💻 I use daily: `.js`, `.ts`, `.php`, `.svelte`
+- 🔥 I'm mostly active within the **php and javascript community**
 - 🌱 Learning all about **DevOps**
-- 📫 Reach me: [https://www.mbparvez.me](https://www.mbparvez.me)
+- 🚗 Reach me: [https://www.mbparvez.me](https://www.mbparvez.me)
 - 🎉 Fun fact **I like potatoes 🥔 and 🍪 cookies more than anything**
 
 <br>
 
-## Tools & Technologies
+### ⚒️ Tools & Technologies
 > Technoloy, languages, tools, and other things that I like to work with.
 
 
@@ -163,7 +163,7 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 
 <br><br>
 
-## ⚡ Github Stats
+### ⚡ Github Stats
 <p float="left">
 
   <!--   ![GitHub metrics](https://metrics.lecoq.io/mbparvezme) -->
@@ -204,6 +204,6 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.mbparvez.me">
-    <img src="https://img.shields.io/badge/Website-000000?style=flat">
+    <img src="https://img.shields.io/badge/🌍_Website-000000?style=flat">
   </a>
 </p>
