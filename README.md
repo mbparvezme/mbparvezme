@@ -28,7 +28,7 @@
 
 <br><br>
 
-### 😎 All About Me
+## 😎 All About Me
 > A new (.human) file was created on 11 December 1990 with the help of my parents and named M B Parvez while saving. I live with my family in Bangladesh, watching movies, eating potatoes and cookies, and in my free time(!) write some codes and, I don't know why these run sometimes!
 
 I'm a passionate, mission-driven full-stack web developer. I design creative, user-friendly modern UI and UX and develop fully functional, fast, and secure web applications. I enjoy turning complex problems into simple, beautiful, and intuitive ones.
@@ -39,7 +39,7 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 
 <br>
 
-### ⌚ Now
+## ⌚ Now
 
 - 🟢 Contributing to [**theUI**](https://github.com/theui-dev)
 - 💖 Interested in DevOps, Cloud and System engineering
@@ -48,7 +48,7 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 
 <br>
 
-### 🧬 My DNA
+## 🧬 My DNA
 
 - 👩🏿‍💼 I'm currently working at [Gosoft](https://www.gosoft.io) and [BIPBY](https://www.bipby.digital)
 - 🧑🏼‍💻 I use daily: `.js`, `.ts`, `.php`, `.svelte`
@@ -59,7 +59,7 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 
 <br>
 
-### ⚒️ Tools & Technologies
+## ⚒️ Tools & Technologies
 > Technoloy, languages, tools, and other things that I like to work with.
 
 
@@ -163,7 +163,7 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 
 <br><br>
 
-### ⚡ Github Stats
+## ⚡ Github Stats
 <p float="left">
 
   <!--   ![GitHub metrics](https://metrics.lecoq.io/mbparvezme) -->
@@ -176,13 +176,13 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 <br>
 
 <p float="left">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=mbparvezme&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<!--   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=mbparvezme&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  -->
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbparvezme&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+<br>
+<br>
 
-  <br>
-  <br>
-
-  ---
+---
   
 <p>
   <a href="https://twitter.com/mbparvezme">
