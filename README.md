@@ -168,17 +168,10 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 
   <!--   ![GitHub metrics](https://metrics.lecoq.io/mbparvezme) -->
   
-  ![GitHub metrics](https://metrics.lecoq.io/mbparvezme?template=classic&base.indepth=true&base.hireable=true&commits.authoring=&base.header=0&base.community=0&languages=1&lines=1&people=1&introduction=1&gists=1&pagespeed=1&tweets=1&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.aliases=javascript%3AJS%20typescript%3ATS&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&people=false&people.limit=92&people.identicons=true&people.identicons.hide=false&people.size=16&people.types=followers&people.shuffle=false&introduction=false&introduction.title=true&gists=false&pagespeed=false&pagespeed.url=gosoft.io&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=mbparvezme&tweets.attachments=false&tweets.limit=1&stackoverflow=false&stackoverflow.user=2300749&stackoverflow.sections=answers-top&stackoverflow.limit=1&stackoverflow.lines=1&stackoverflow.lines.snippet=2&config.timezone=Asia%2FDhaka&config.padding=0%2C%2016%20%2B%2011%25)
+  ![GitHub metrics](https://metrics.lecoq.io/mbparvezme?template=classic&base.indepth=true&base.hireable=true&commits.authoring=&base.header=0&base.community=0&languages=1&lines=1&people=1&introduction=1&gists=1&pagespeed=1&tweets=1&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&people=false&people.limit=92&people.identicons=true&people.identicons.hide=false&people.size=16&people.types=followers&people.shuffle=false&introduction=false&introduction.title=true&gists=false&pagespeed=false&pagespeed.url=gosoft.io&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=mbparvezme&tweets.attachments=false&tweets.limit=1&stackoverflow=false&stackoverflow.user=2300749&stackoverflow.sections=answers-top&stackoverflow.limit=1&stackoverflow.lines=1&stackoverflow.lines.snippet=2&config.timezone=Asia%2FDhaka&config.padding=0%2C%2016%20%2B%2011%25)
 
 </p>
 
-<br>
-<br>
-
-<p float="left">
-<!--   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=mbparvezme&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  -->
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbparvezme&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 <br>
 <br>
 
