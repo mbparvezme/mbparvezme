@@ -18,7 +18,7 @@
 <div align="center">
   <!--### Whatever I do, I do it because I love to do it-->
 
-  ### I build [**theUI**](https://www.theui.dev)
+  ### I build [**theUI.dev**](https://www.theui.dev)
   
   <img width="80pc" src="https://github.com/mbparvezme/mbparvezme/blob/main/TheUI - space-around.png" alt="M B Parvez"/>
 
