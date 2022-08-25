@@ -42,20 +42,20 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 ## Now
 
 - 🟢 Contributing to [**theUI**](https://github.com/theui-dev)
-- 💖 Interested in DevOps and Cloud engineering
+- 💖 Interested in DevOps, Cloud and System engineering
 - 🏢 Available for remote work
-- 🔎 Looking for contributing to php or javascript python based open source projects
+- 🔎 Looking for contributing to php, javascript or python based open source projects
 
 <br>
 
 ## Bio
 
 - 👩🏿‍💼 I'm currently working at [Gosoft](https://www.gosoft.io) and [BIPBY](https://www.bipby.digital)
-- ⚙️ I use daily: `.js`, `.php`, `.svelte`
-- 🌍 I'm mostly active within the **php community**
+- ⚙️ I use daily: `.js`, `.ts`, `.php`, `.svelte`
+- 🌍 I'm mostly active within the **php and javascript community**
 - 🌱 Learning all about **DevOps**
-- 📫 Reach me: [https://mbparvez.me.](https://twitter.com/mbparvezme)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📫 Reach me: [https://www.mbparvez.me](https://www.mbparvez.me)
+- 🎉 Fun fact **I like potatoes 🥔 and 🍪 cookies more than anything**
 
 <br>
 
@@ -160,20 +160,6 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
     </td>
   </tr>
 </table>
-<br><br>
-
-## Current Status
-- I’m currently working with [Gosoft](https://www.gosoft.io) and [BIPBY](https://www.bipby.digital).
-
-- I’m currently learning **DevOps and DenoJS**
-
-- My recent projects are available at [https://www.mbparvez.me/project](https://www.mbparvez.me/project)
-
-- Ask me about **SvelteJS or Sveltekit that I like to work with on front-end**
-
-- How to reach me **https://www.mbparvez.me**
-
-- Fun fact **I like potatoes 🥔 and cookies more than anything**
 
 <br><br>
 
