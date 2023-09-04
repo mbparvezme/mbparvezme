@@ -22,7 +22,7 @@
   
   <img width="80pc" src="https://github.com/mbparvezme/mbparvezme/blob/main/TheUI - space-around.png" alt="M B Parvez"/>
 
-  A platform for components, UI blocks, template and theme.<br>Actually, building a Sveltekit eco-system.
+  A platform for components, UI blocks, template,s and themes.<br>Actually, building a Sveltekit eco-system.
 
 </div>
 
@@ -33,9 +33,9 @@
 
 I'm a passionate, mission-driven full-stack web developer. I design creative, user-friendly modern UI and UX and develop fully functional, fast, and secure web applications. I enjoy turning complex problems into simple, beautiful, and intuitive ones.
 
-I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I worked with both CodeIgniter and Laravel frameworks in PHP. In 2016, I started nodeJS. I am currently working with both PHP and nodeJS tech stacks. In this eleven-year-long journey, I have tried to adopt the technologies I found on my way to enrich my skills. I do the work because I love it.
+I started as an ASP.NET developer in 2011 and moved to PHP in 2013. I worked with both CodeIgniter and Laravel frameworks in PHP. In 2016, I started nodeJS. I am currently working with both PHP and nodeJS tech stacks. In this eleven-year-long journey, I have tried to adopt the technologies I found on my way to enrich my skills. I do the work because I love it.
 
-> My nickname is "Rony", but they call me with a petname, "Ron". You can also call me with a full-stack web developer, UI/UX designer, or any other functional title defined by the industry.
+> My nickname is "Rony", but they call me by a pet name, "Ron". You can also call me with a full-stack web developer, UI/UX designer, or any other functional title defined by the industry.
 
 <br>
 
@@ -44,13 +44,13 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 - 🟢 Contributing to [**theUI**](https://github.com/theui-dev)
 - 💖 Interested in DevOps, Cloud and System engineering
 - ✋🏼 Available for remote work
-- 👷🏼 Looking for contributing to php, javascript or python based open source projects
+- 👷🏼 Looking to contribute to PHP, javascript, or Python-based open-source projects
 
 <br>
 
 ## 🧬 My DNA
 
-- 👩🏿‍💼 I'm currently working at [Gosoft](https://www.gosoft.io) and [BIPBY](https://www.bipby.digital)
+- 👩🏿‍💼 I'm currently working at [BRACNet](https://www.bracnet.net) <!--- - 👩🏿‍💼 I'm currently working at [Gosoft](https://www.gosoft.io) and [BIPBY](https://www.bipby.digital)-->
 - 🧑🏼‍💻 I use daily: `.js`, `.ts`, `.php`, `.svelte`
 - 🔥 I'm mostly active within the **php and javascript community**
 - 🌱 Learning all about **DevOps**
@@ -60,7 +60,7 @@ I started my journey as an ASP.NET developer in 2011 and moved to PHP in 2013. I
 <br>
 
 ## ⚒️ Tools & Technologies
-> Technoloy, languages, tools, and other things that I like to work with.
+> Technology, languages, tools, and other things I like working with.
 
 
 <table border="0">
