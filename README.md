@@ -14,7 +14,8 @@
 
 </p>
 
-<h3 align="center">A FULL-STACK DEVELOPER FROM BANGLADESH</h3>
+<!-- <h3 align="center">A FULL-STACK DEVELOPER FROM BANGLADESH</h3> -->
+<h3 align="center">Google Certified UIUX Designer<br>Full-stack developer • AI/ML • Chatbot • API developer • Brand practitioner<br>Laravel • NextJS • SvelteKit || JS • PHP • Python</h3>
 <div align="center">
   <!--### Whatever I do, I do it because I love to do it-->
 
@@ -29,20 +30,27 @@
 <br><br>
 
 ## 😎 All About Me
-> A new (.human) file was created on 11 December 1990 with the help of my parents and named M B Parvez while saving. I live with my family in Bangladesh, watching movies, eating potatoes and cookies, and in my free time(!) write some codes and, I don't know why these run sometimes!
+> A new (.human) file was created on December 11, 1990, with the help of my parents, and I was named M B Parvez during the saving process. I live with my family in Bangladesh, where I enjoy watching movies and indulging in potatoes and cookies. In my free time (which isn't much!), I write some code. I don't know why these codes run sometimes!
 
-I'm a passionate, mission-driven full-stack web developer. I design creative, user-friendly modern UI and UX and develop fully functional, fast, and secure web applications. I enjoy turning complex problems into simple, beautiful, and intuitive ones.
+Ever wonder how websites tick, how apps come to life, or how chat-GPT works? That's my playground! 
 
-I started as an ASP.NET developer in 2011 and moved to PHP in 2013. I worked with both CodeIgniter and Laravel frameworks in PHP. In 2016, I started nodeJS. I am currently working with both PHP and nodeJS tech stacks. In this eleven-year-long journey, I have tried to adopt the technologies I found on my way to enrich my skills. I do the work because I love it.
+Hello there! I'm M B Parvez, a full-stack developer fascinated by crafting intuitive experiences across websites and mobile apps. My journey began in 2011, evolving alongside technology's leaps and bounds. Today, I'm particularly enthralled by the potential of AI and ML - it's not just sci-fi robots, but tools to solve real-world problems like healthcare and sustainability.
 
-> My nickname is "Rony", but they call me by a pet name, "Ron". You can also call me with a full-stack web developer, UI/UX designer, or any other functional title defined by the industry.
+But tech isn't just lines of code for me. I'm just as passionate about the human touch, designing interfaces that are a joy to use and visually stunning. From a simple button to a complex platform, I believe every digital touchpoint deserves thoughtful creativity.
+
+Learning fuels my fire! I'm constantly seeking new challenges and skills, keeping my knowledge on the cutting edge. So, if you're looking for a tech partner who loves building user-centric solutions and pushing the boundaries of innovation, let's connect!
+
+### Career Journey
+Starting my career in 2011 as an ASP .NET developer, I switched to PHP in 2013, becoming skilled in it. Since 2017, I've been exploring NodeJS. In 2016, I got into mobile app development, and by 2019, I was fascinated by Flutter, using it to create cool apps for Android and iOS. Now, I've started my new journey with AI/ML in 2023.
+
+> I'm called 'Rony,' but people use the cute name 'Ron.' You can also call me someone who makes websites, decides how they look, ensures they work well, and even explores AI/ML development. Or, you can give me any other job title the industry uses.
 
 <br>
 
 ## ⌚ Now
 
 - 🟢 Contributing to [**theUI**](https://github.com/theui-dev)
-- 💖 Interested in DevOps, Cloud and System engineering
+- 💖 Interested in AI/ML, Prompt engineering, Cloud System
 - ✋🏼 Available for remote work
 - 👷🏼 Looking to contribute to PHP, javascript, or Python-based open-source projects
 
@@ -50,10 +58,10 @@ I started as an ASP.NET developer in 2011 and moved to PHP in 2013. I worked wit
 
 ## 🧬 My DNA
 
-- 👩🏿‍💼 I'm currently working at [BRACNet](https://www.bracnet.net) <!--- - 👩🏿‍💼 I'm currently working at [Gosoft](https://www.gosoft.io) and [BIPBY](https://www.bipby.digital)-->
-- 🧑🏼‍💻 I use daily: `.js`, `.ts`, `.php`, `.svelte`
-- 🔥 I'm mostly active within the **php and javascript community**
-- 🌱 Learning all about **DevOps**
+- 👩🏿‍💼 I'm currently working at [BRACNet Limited](https://www.bracnet.net) as a Software Team Lead and Consultant at [BIPBY Digital](https://www.bipby.digital) <!--- - 👩🏿‍💼 I'm currently working at [Gosoft](https://www.gosoft.io) and [BIPBY](https://www.bipby.digital)-->
+- 🧑🏼‍💻 I use daily: `.js` or `.ts`, `.jsx` or `.tsx`, `.php`, `.svelte`
+- 🔥 I'm mostly active within the **php and javascript community** and on [Linkedin](https://www.linkedin.com/in/mbparvezme/)
+- 🌱 Learning **AI/ML** and  **Prompt Engineering**
 - 🚗 Reach me: [https://www.mbparvez.me](https://www.mbparvez.me)
 - 🎉 Fun fact **I like potatoes 🥔 and 🍪 cookies more than anything**
 
@@ -68,13 +76,10 @@ I started as an ASP.NET developer in 2011 and moved to PHP in 2013. I worked wit
   <tr>
     <td>Frameworks</td>
     <td> 
-      <a href="https://svelte.dev" target="_blank">Svelte</a>,
       <a href="https://kit.svelte.dev" target="_blank">Sveltekit</a>,
       <a href="https://flutter.dev" target="_blank">Flutter</a>,
-      <a href="https://reactjs.org" target="_blank">ReactJS</a>,
       <a href="https://nextjs.org" target="_blank">NextJS</a>,
-      <a href="https://vuejs.org" target="_blank">VueJS</a>,
-      <a href="https://nuxtjs.org" target="_blank">NustJS</a>
+      <a href="https://nuxtjs.org" target="_blank">NuxtJS</a>
     </td>
   </tr>
   <tr>
@@ -82,8 +87,7 @@ I started as an ASP.NET developer in 2011 and moved to PHP in 2013. I worked wit
     <td>
       <a href="https://tailwindcss.com" target="_blank">TailwindCSS</a>,
       <a href="https://getbootstrap.com" target="_blank">Bootstrap</a>,
-      <a href="https://material.io" target="_blank">Material Design</a>,
-      <a href="https://sass-lang.com" target="_blank">SASS</a>
+      <a href="https://material.io" target="_blank">Material Design</a>
     </td>
   </tr>
   <tr>
@@ -92,6 +96,7 @@ I started as an ASP.NET developer in 2011 and moved to PHP in 2013. I worked wit
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a>,
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>,
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">Javascript</a>,
+      <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>,
       <a href="https://dart.dev" target="_blank">Dart</a>
     </td>
   </tr>
@@ -99,8 +104,9 @@ I started as an ASP.NET developer in 2011 and moved to PHP in 2013. I worked wit
   <tr>
     <td>Technology</td>
     <td> 
-      <a href="https://nodejs.org/en" target="_blank">NodeJS</a>,
-      <a href="https://www.php.net" target="_blank">PHP</a>
+      <a href="https://nodejs.org/en/" target="_blank">NodeJS</a>,
+      <a href="https://www.php.net/" target="_blank">PHP</a>,
+      <a href="https://www.python.org/" target="_blank">Python</a>,
     </td>
   </tr>
   <tr>
@@ -128,7 +134,6 @@ I started as an ASP.NET developer in 2011 and moved to PHP in 2013. I worked wit
       <a href="https://vercel.com" target="_blank">Vercel</a>,
       <a href="https://www.netlify.com" target="_blank">Netlify</a>,
       <a href="https://www.digitalocean.com" target="_blank">Digital Ocean</a>,
-      <a href="https://heroku.com" target="_blank">Heroku</a>,
       <a href="https://linode.com" target="_blank">Linode</a>,
       <a href="https://cpanel.net" target="_blank">cPanel</a>
     </td>
@@ -137,26 +142,21 @@ I started as an ASP.NET developer in 2011 and moved to PHP in 2013. I worked wit
   <tr>
     <td>Code Management</td>
     <td>
-      <a href="https://git-scm.com" target="_blank">Git</a>,
       <a href="https://github.com" target="_blank">Github</a>
     </td>
   </tr>
   <tr>
-    <td>Editor</td>
+    <td>Editor/IDE</td>
     <td>
-      <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td>IDE</td>
-    <td>
-      <a href="https://code.visualstudio.com" target="_blank">Android Studio</a>
+      <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>,
+      <a href="https://www.jetbrains.com/pycharm/" target="_blank">PyCharm</a>,
+      <a href="https://developer.android.com/studio" target="_blank">Android Studio</a>
     </td>
   </tr>
   <tr>
     <td>Prototype Tool</td>
     <td>
-      <a href="https://code.visualstudio.com" target="_blank">Figma</a>, Pen, Paper
+      <a href="https://www.figma.com/" target="_blank">Figma</a>, <a href="https://www.executivepensdirect.com/blogs/help-advice/the-history-of-pens" target="_blank">Pen</a>, <a href="http://www.historyofpaper.net/" target="_blank">Paper</a>
     </td>
   </tr>
 </table>
