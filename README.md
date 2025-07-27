@@ -4,12 +4,10 @@
 <!-- <h3 align="center">A FULL-STACK DEVELOPER FROM BANGLADESH</h3> -->
 <h3 align="center">
   Full-Stack Web & AI Application Developer<br>
-  Google Certified UIUX Designer • Clean Code Lover
+  Google Certified UIUX Designer • Clean Code Lover<br>
+  Open for Freelance | Remote | Relocation
 </h3>
-<h4 align="center">
-  Laravel • NextJS • SvelteKit • JS • PHP • Python<br>Open for Freelance | Remote | Relocation
-</h4>
-<br>
+<h4 align="center">Laravel • NextJS • SvelteKit • JS • PHP • Python</h4>
 <p align="center">
   <a href="https://github.com/mbparvezme?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/stackexchange/stackoverflow/r/2300749?style=for-the-badge&logo=stackoverflow&labelColor=170A04&label=Reputation&color=D77331"></a>
   &nbsp;
