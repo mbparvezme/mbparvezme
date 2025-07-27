@@ -2,20 +2,20 @@
 <h1 align="center">Hi 👋, I'm M B Parvez</h1>
 
 <p align="center">
-  <a href="https://stackoverflow.com/users/2300749/m-b-parvez">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/2300749?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/mbparvezme?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mbparvezme?style=flat&color=black&logo=github">
-  </a>
-  <a href="https://github.com/mbparvezme/">
-    <img src="https://komarev.com/ghpvc/?username=mbparvezme" alt="visitors" />
-  </a>
-
+  <a href="https://github.com/mbparvezme?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/stackexchange/stackoverflow/r/2300749?style=for-the-badge&logo=stackoverflow&labelColor=170A04&label=Reputation&color=D77331"></a>
+  &nbsp;
+  <a href="https://github.com/mbparvezme?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/mbparvezme?style=for-the-badge&logo=github&logoColor=white&labelColor=070F17&color=f2f2f2"></a>
+  &nbsp;
+  <a href="https://github.com/mbparvezme/"><img src="https://komarev.com/ghpvc/?username=mbparvezme&style=for-the-badge&color=blueviolet" alt="visitors" /></a>
 </p>
 
 <!-- <h3 align="center">A FULL-STACK DEVELOPER FROM BANGLADESH</h3> -->
-<h3 align="center">Google Certified UIUX Designer<br>Full-stack developer • AI/ML • Chatbot • API developer • Brand practitioner<br>Laravel • NextJS • SvelteKit || JS • PHP • Python</h3>
+<h3 align="center">
+  Full-Stack Web & AI Application Developer<br>
+  Google Certified UIUX Designer<br>
+  Clean Code Lover • Laravel • NextJS • SvelteKit • JS • PHP • Python<br>Open for Freelance | Remote | Relocation
+</h3>
+
 <div align="center">
   <!--### Whatever I do, I do it because I love to do it-->
 
