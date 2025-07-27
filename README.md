@@ -1,6 +1,15 @@
 <!-- img src="https://github.com/mbparvezme/mbparvezme/blob/main/mbparvez-banner.png" alt="M B Parvez"/ -->
 <h1 align="center">Hi 👋, I'm M B Parvez</h1>
 
+<!-- <h3 align="center">A FULL-STACK DEVELOPER FROM BANGLADESH</h3> -->
+<h3 align="center">
+  Full-Stack Web & AI Application Developer<br>
+  Google Certified UIUX Designer • Clean Code Lover
+</h3>
+<h4 align="center">
+  Laravel • NextJS • SvelteKit • JS • PHP • Python<br>Open for Freelance | Remote | Relocation
+</h4>
+<br>
 <p align="center">
   <a href="https://github.com/mbparvezme?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/stackexchange/stackoverflow/r/2300749?style=for-the-badge&logo=stackoverflow&labelColor=170A04&label=Reputation&color=D77331"></a>
   &nbsp;
@@ -8,13 +17,7 @@
   &nbsp;
   <a href="https://github.com/mbparvezme/"><img src="https://komarev.com/ghpvc/?username=mbparvezme&style=for-the-badge&color=blueviolet" alt="visitors" /></a>
 </p>
-
-<!-- <h3 align="center">A FULL-STACK DEVELOPER FROM BANGLADESH</h3> -->
-<h3 align="center">
-  Full-Stack Web & AI Application Developer<br>
-  Google Certified UIUX Designer<br>
-  Clean Code Lover • Laravel • NextJS • SvelteKit • JS • PHP • Python<br>Open for Freelance | Remote | Relocation
-</h3>
+<h2></h2>
 
 <div align="center">
   <!--### Whatever I do, I do it because I love to do it-->
@@ -27,7 +30,8 @@
 
 </div>
 
-<br><br>
+<br>
+<br>
 
 ## 😎 All About Me
 > A new (.human) file was created on December 11, 1990, with the help of my parents, and I was named M B Parvez during the saving process. I live with my family in Bangladesh, where I enjoy watching movies and indulging in potatoes and cookies. In my free time (which isn't much!), I write code. Sometimes, I wonder how these codes run!
