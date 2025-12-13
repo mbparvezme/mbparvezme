@@ -1,13 +1,14 @@
 <!-- img src="https://github.com/mbparvezme/mbparvezme/blob/main/mbparvez-banner.png" alt="M B Parvez"/ -->
 <h1 align="center">Hi 👋, I'm M B Parvez</h1>
 
-<!-- <h3 align="center">A FULL-STACK DEVELOPER FROM BANGLADESH</h3> -->
 <h3 align="center">
   Full-Stack Web & AI Application Developer<br>
-  Google Certified UIUX Designer • Clean Code Lover<br>
-  Open for Freelance | Remote | Relocation
+  Clean Code Lover • Worked With PHP<br>
+  Open for Freelance/Remote/Relocation
 </h3>
-<h4 align="center">Laravel • NextJS • SvelteKit • JS • PHP • Python</h4>
+
+<h4 align="center">PHP • JS • Python</h4>
+
 <p align="center">
   <a href="https://github.com/mbparvezme?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/stackexchange/stackoverflow/r/2300749?style=for-the-badge&logo=stackoverflow&labelColor=170A04&label=Reputation&color=D77331"></a>
   &nbsp;
@@ -15,18 +16,28 @@
   &nbsp;
   <a href="https://github.com/mbparvezme/"><img src="https://komarev.com/ghpvc/?username=mbparvezme&style=for-the-badge&color=blueviolet" alt="visitors" /></a>
 </p>
-<h2></h2>
 
-<div align="center">
-  <!--### Whatever I do, I do it because I love to do it-->
+<br>
 
-  ### I build [**www.theui.dev**](https://www.theui.dev)
-  
-  <img width="80pc" src="https://github.com/mbparvezme/mbparvezme/blob/main/TheUI - space-around.png" alt="M B Parvez"/>
+## Projects
 
-  A platform for components, UI blocks, templates, and themes, building a Svelte eco-system.
+I am a solo developer dedicated to building tools and platforms for the developer community, while creating AI-powered SaaS products for long-term sustainability.
 
-</div>
+**Research Based Work**
+- **EMON**: 
+
+**Platforms**
+- **TheUI**
+
+**NPM Packages**
+- **DataCrypt**
+
+**PHP Packgist**
+- **Laravel Database to Form**
+
+**VS Code Extensions**
+- **PHP artisan alias**
+
 
 <br>
 <br>
