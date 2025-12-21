@@ -32,7 +32,30 @@ Learning keeps me excited! I love trying new things and improving my skills. If 
 ### Career Journey
 Starting my career in 2011 as an ASP .NET developer, I switched to PHP in 2013 and became skilled in it. Since 2017, I've been exploring NodeJS. Now, I've started my new journey with AI/ML in 2023.
 
-<br>
+<br><br>
+
+## Projects
+
+I am a solo developer dedicated to building tools and platforms for the developer community, while creating AI-powered SaaS products for long-term sustainability.
+
+**Research Based Work**
+- **EMON**: 
+
+**Platforms**
+- **TheUI**
+
+**NPM Packages**
+- **DataCrypt**
+
+**PHP Packgist**
+- **Laravel Database to Form**
+
+**VS Code Extensions**
+- **PHP artisan alias**
+
+<br><br>
+
+
 
 ## ⌚ Now
 
