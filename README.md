@@ -1,13 +1,16 @@
 <!-- img src="https://github.com/mbparvezme/mbparvezme/blob/main/mbparvez-banner.png" alt="M B Parvez"/ -->
-<h1 align="center">Hi 👋, I'm M B Parvez</h1>
+<h1 align="center">
+  Hi 👋, I'm <b>M B Parvez</b><br>
+  <small>Full-Stack Web & AI Application Developer</small>
+</h1>
 
 <h3 align="center">
-  Full-Stack Web & AI Application Developer<br>
-  Clean Code Lover • Worked With PHP<br>
-  Open for Freelance/Remote/Relocation
+  Clean Code Lover • Work With PHP & Javascript<br> Open for Freelance/Remote/Relocation
 </h3>
 
 <h4 align="center">PHP • JS • Python</h4>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/mbparvezme?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/stackexchange/stackoverflow/r/2300749?style=for-the-badge&logo=stackoverflow&labelColor=170A04&label=Reputation&color=D77331"></a>
@@ -19,44 +22,15 @@
 
 <br>
 
-## Projects
-
-I am a solo developer dedicated to building tools and platforms for the developer community, while creating AI-powered SaaS products for long-term sustainability.
-
-**Research Based Work**
-- **EMON**: 
-
-**Platforms**
-- **TheUI**
-
-**NPM Packages**
-- **DataCrypt**
-
-**PHP Packgist**
-- **Laravel Database to Form**
-
-**VS Code Extensions**
-- **PHP artisan alias**
-
-
-<br>
-<br>
-
 ## 😎 All About Me
-> A new (.human) file was created on December 11, 1990, with the help of my parents, and I was named M B Parvez during the saving process. I live with my family in Bangladesh, where I enjoy watching movies and indulging in potatoes and cookies. In my free time (which isn't much!), I write code. Sometimes, I wonder how these codes run!
+> A new `.human` file created on December 11, 1990, with help from my parents and saved as M B Parvez (Rony). People call me Rony, and sometimes Ron too. I live in Bangladesh with my family, enjoy movies, potatoes, and cookies. In my very little free time, I write code. 😄
 
-Ever wonder how websites tick, how apps come to life, or how ChatGPT works? That’s my playground!
+Hello there! I'm a full-stack developer, started my journey in 2011 and grew with new tech over the years. Now I enjoy working with AI and ML to solve real problems, like healthcare and sustainability.
 
-Hello there! I'm M B Parvez, a full-stack developer fascinated by crafting intuitive experiences across websites and mobile apps. My journey began in 2011, evolving alongside technology's leaps and bounds. Today, I'm particularly enthralled by the potential of AI and ML - not just sci-fi robots, but tools to solve real-world problems like healthcare and sustainability.
-
-But tech isn't just lines of code for me. I'm just as passionate about the human touch, designing interfaces that are a joy to use and visually stunning. From a simple button to a complex platform, I believe every digital touchpoint deserves thoughtful creativity.
-
-Learning fuels my fire! I'm constantly seeking new challenges and skills, keeping my knowledge on the cutting edge. So, if you're looking for a tech partner who loves building user-centric solutions and pushing the boundaries of innovation, let's connect!
+Learning keeps me excited! I love trying new things and improving my skills. If you enjoy building simple, useful, and smart tech together, **let’s connect**. 😊
 
 ### Career Journey
-Starting my career in 2011 as an ASP .NET developer, I switched to PHP in 2013 and became skilled in it. Since 2017, I've been exploring NodeJS. In 2016, I ventured into mobile app development, and by 2019, I was fascinated by Flutter, using it to create cool apps for Android and iOS. Now, I've started my new journey with AI/ML in 2023.
-
-> I'm called 'Rony,' but people also use the nickname 'Ron.' You can call me a web developer, a UI/UX designer, or an AI/ML enthusiast. Or, give me any other job title the industry uses.
+Starting my career in 2011 as an ASP .NET developer, I switched to PHP in 2013 and became skilled in it. Since 2017, I've been exploring NodeJS. Now, I've started my new journey with AI/ML in 2023.
 
 <br>
 
