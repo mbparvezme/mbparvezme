@@ -34,20 +34,25 @@ Starting my career in 2011 as an ASP .NET developer, I switched to PHP in 2013 a
 
 <br><br>
 
-## Projects
+## 👨🏻‍💻 Projects
 
 I am a solo developer dedicated to building tools and platforms for the developer community, while creating AI-powered SaaS products for long-term sustainability.
 
-### **Research Based Work**
+### ✅ **Research Based & Related Work**
 
-**1. [EMON: Efficient Modular Object Notation](https://github.com/mbparvezme/emon)**: A compact, modular, and AI-friendly structured data format designed for research, AI pipelines, web/mobile data exchange, and human-readable configuration. It provides a minimal yet expressive way to represent structured information, making it ideal for AI training, data serialization, and efficient communication across systems. 
+**1. [EMON: Efficient Modular Object Notation](https://github.com/mbparvezme/emon)**: A compact, modular, and AI-friendly structured data format designed for research, AI pipelines, web/mobile data exchange, and human-readable configuration. It provides a minimal yet expressive way to represent structured information, making it ideal for AI training, data serialization, and efficient communication across systems.
 
-### **Platforms**
+**2. [emon-js](https://www.npmjs.com/package/emon-js) (NPM Package)**: A robust JavaScript/TypeScript implementation to convert between JSON and EMON, perform lazy-loading queries, and benchmark efficiency.
+
+<br>
+
+### ✅ **Platforms**
 
 **1. [TheUI](https://www.theui.dev)**: Accessible, highly customizable, and fully typed Tailwind CSS-based components libraries, Themes and UI Blocks for your next project!
 
+<br>
 
-### **NPM Packages**
+### ✅ **NPM Packages**
 
 **1. [theui-svelte](https://www.npmjs.com/package/theui-svelte)**: This is a component library for **Svelte 5**, built on top of **TailwindCSS**. It combines the strength of Svelte and the features of TailwindCSS to create a powerful tool that accelerates your development process.
 
@@ -61,11 +66,15 @@ I am a solo developer dedicated to building tools and platforms for the develope
 
 **6. [tw-color-shades](https://www.npmjs.com/package/tw-color-shades)**: A lightweight JavaScript utility to generate TailwindCSS-compatible color shades from a single color input. The library supports various color formats such as HEX, RGB, and HSL, and can also handle CSS variables for enhanced flexibility. (Deprecated - compatible up to TailwindCSS v3.x)
 
-### **PHP Packgist**
+<br>
+
+### ✅ **PHP Packgist**
 
 **1. [Laravel Database to Form](https://packagist.org/packages/mphp/laravel-db2form)**: A Laravel focused package, generate **blade forms** and **FormRequest** classes from DB or JSON schemas!
 
-### **VS Code Extensions**
+<br>
+
+### ✅ **VS Code Extensions**
 
 **1. [PHP artisan alias](https://marketplace.visualstudio.com/items?itemName=mbparvezme.php-artisan-alias)**: A zero-config VS Code extension for Laravel developers to **set custom aliases** for `php artisan` commands (e.g., `a` for `php artisan`, `serve` for `php artisan serve`, `mkmodel` for `php artisan make:model`). Supports Sail automatically.
 
